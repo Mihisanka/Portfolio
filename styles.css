@@ -229,14 +229,6 @@
             margin: 5rem;
         }
         
-        .services-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 2rem;
-        }
-        
         .services-container-services-box {
             flex: 1 1 30rem;
             background-color: var(--second-big-color);
@@ -244,4 +236,12 @@
             border-radius: 2rem;
             text-align: center;
             border: .2rem solid var(--big-color);
+        }
+        
+        .services-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 2rem;
         }
