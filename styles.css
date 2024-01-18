@@ -165,6 +165,7 @@ body {
     float: right;
     height: auto;
     margin-bottom: 20px;
+    margin-left: 30px;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -233,6 +234,7 @@ body {
 
 .about-img img {
     width: 35vw;
+    margin-right: 30px;
 }
 
 .hedding {
